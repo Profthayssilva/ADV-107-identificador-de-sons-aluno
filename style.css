@@ -1,0 +1,54 @@
+/* Adicione estilo a body colando o estilo de fonte copiado */
+body
+{
+  text-align: center;
+   
+  /* Adicione background color (cor de fundo) */
+ 
+}
+
+
+/* Adicione style a div header: Agora, adicionaremos estilo para a div header. A tag div que
+contém o cabeçalho possui uma class chamada ‘header_div’. */
+.header_div
+{
+  
+
+}
+
+
+/* Adicione estilo a tag header p: Agora, adicione estilo à tag p que está dentro de header_div. */
+.header_div p
+{
+    
+
+
+
+
+}
+/* Adicione estilo ao botão: Em seguida, adicione estilo ao botão dentro de main_div */
+.main_div button
+{
+    
+
+
+
+
+}
+
+.copy_right_footer 
+{
+  /* ajuste position (posição) para fixed (fixa). Ao fazer isso, essa div será fixada a
+uma posição no website. */
+
+   
+   color: #b80860;
+   bottom: 0;
+   width: 100%;
+   font-size: 18px;
+   background-color: #f4b7df;
+   line-height: 3;
+   text-align: left;
+   text-shadow: 5px 5px 5px rgb(244, 142, 212);
+   padding-left: 10px;
+}
